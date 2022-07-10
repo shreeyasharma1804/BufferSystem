@@ -1,2 +1,1 @@
-Linux file buffering LRU and SJF Implementations\n
-Custom memset and memmove
+Linux file buffering ,LRU and SJF Implementations, Custom memset and memmove

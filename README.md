@@ -1,1 +1,1 @@
-Linux file buffering LRU and SJB Implementations
+Linux file buffering LRU and SJF Implementations
